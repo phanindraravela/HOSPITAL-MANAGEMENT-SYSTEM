@@ -1,0 +1,7 @@
+target/
+.settings/
+.classpath
+.project
+
+# local database credentials (copy src/main/resources/db.properties.example)
+src/main/resources/db.properties
